@@ -1,3 +1,9 @@
+# Mac Stuff
+*.DS_STORE
+
+# Notebook Stuff
+*.ipynb_checkpoints/
+
 # Local .terraform directories
 **/.terraform/*
 

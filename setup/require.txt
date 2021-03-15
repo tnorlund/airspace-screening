@@ -1,0 +1,13 @@
+https://files.pythonhosted.org/packages/31/a4/c10f07959fd58ffd066518e3f163f55d40bc033191184a8903e660d88c03/pandas-1.2.2-cp38-cp38-manylinux1_x86_64.whl
+https://files.pythonhosted.org/packages/c7/e6/dccac76b7e825915ffb906beeba5a953597b6cfe1fe686b5276e122cb07c/numpy-1.20.1-cp38-cp38-manylinux2010_x86_64.whl
+https://files.pythonhosted.org/packages/70/94/784178ca5dd892a98f113cdd923372024dc04b8d40abe77ca76b5fb90ca6/pytz-2021.1-py2.py3-none-any.whl
+https://files.pythonhosted.org/packages/c1/2f/69402836a43926868594d8c96d91092a9a3d61d524723a968e2277c60501/xlrd2-1.2.6-py2.py3-none-any.whl
+https://files.pythonhosted.org/packages/59/cf/26b564729aae2f7bcceeb696d9727075a6a010ed5484845b75f864249407/pyarrow-3.0.0-cp38-cp38-manylinux2014_x86_64.whl
+https://files.pythonhosted.org/packages/62/1e/e4d540e82a93da372da58924a01bfeb0a53844efd2215e6eac71201c8009/awswrangler-2.5.0-py3-none-any.whl
+https://files.pythonhosted.org/packages/f4/52/a13286844780c7b1740edbbee8a8f0524e2a6d51c068b59dda39a6a119f5/haversine-2.3.0-py2.py3-none-any.whl
+https://files.pythonhosted.org/packages/70/94/784178ca5dd892a98f113cdd923372024dc04b8d40abe77ca76b5fb90ca6/pytz-2021.1-py2.py3-none-any.whl
+https://files.pythonhosted.org/packages/4f/52/a115fe175028b058df353c5a3d5290b71514a83f67078a6482cff24d6137/PyMySQL-1.0.2-py3-none-any.whl
+https://files.pythonhosted.org/packages/24/de/7de0029f7f87cffbddc14f6473f390a554b8c11cecfd4e20bb12b08d29cd/pg8000-1.18.0-py3-none-any.whl
+https://files.pythonhosted.org/packages/0c/d1/c78869106a5a9601ffb4575ca46727334d62da83f000142554f028ae6a06/scramp-1.2.2-py3-none-any.whl
+https://files.pythonhosted.org/packages/b5/a8/56be92dcd4a5bf1998705a9b4028249fe7c9a035b955fe93b6a3e5b829f8/asn1crypto-1.4.0-py2.py3-none-any.whl
+https://files.pythonhosted.org/packages/3f/15/775c1d78c3f63ea5c6f759817361e5223dacc4d4a346b87163efd37c65c7/redshift_connector-2.0.876-py3-none-any.whl
